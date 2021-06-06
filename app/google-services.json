@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312470255631",
+    "project_id": "crudvier",
+    "storage_bucket": "crudvier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312470255631:android:198d883720e6e1baeb8b7a",
+        "android_client_info": {
+          "package_name": "com.example.crudviernes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312470255631-vlmsksptfncehljoo35qmke3dkeih3uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxAFvz58EvKMHRSi5GC97B_kKBvvzVqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312470255631-vlmsksptfncehljoo35qmke3dkeih3uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
